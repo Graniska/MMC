@@ -1,0 +1,2 @@
+# mmc
+calcula o mmc
